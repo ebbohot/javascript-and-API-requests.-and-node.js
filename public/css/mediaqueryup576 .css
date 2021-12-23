@@ -1,0 +1,16 @@
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+   footer{
+      display: flex ;
+      font-size: 14px;
+     }
+     footer h2 ,h6 {
+      font-size: 19px;
+      margin-top: 30px;
+  
+     } 
+   
+   }
+
+  

@@ -1,0 +1,58 @@
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ 
+   footer{
+    display: flex ;
+    font-size: 11px;
+   }
+   footer h2 ,h6{
+    font-size: 15px;
+    margin-top: 15px;
+   }
+   .mt-1, .my-1 {
+    margin-top: -3.75rem!important;
+    width: 80px;
+}
+   footer .form-control{
+    width: 200px;
+    text-align: center;
+    margin-left: 80px;
+    }
+    footer .font-weight-bold{
+     font-size: xx-small;
+    }
+    body{
+        color:red;
+    }
+  
+   .pagetitle{
+       font-size: 20px;
+       text-align: justify;
+
+   }
+   .btn-warning {
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    margin-bottom: -88px;
+    margin-left: 127px;
+}
+.endfootertext{
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+}
+.footerbutton {
+    width: 60px;
+    height: 30px;
+    text-align: center;
+
+}
+
+.footermedia{
+    margin: 0px;
+}
+
+
+}

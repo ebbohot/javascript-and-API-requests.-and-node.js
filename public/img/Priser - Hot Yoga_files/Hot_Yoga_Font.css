@@ -1,0 +1,42 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3909242, 2020-06-02T08:57:29-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Radikal-Bold by Nootype
+ * URL: https://www.myfonts.com/fonts/nootype/radikal/bold/
+ * 
+ * Webfont: Radikal-Medium by Nootype
+ * URL: https://www.myfonts.com/fonts/nootype/radikal/medium/
+ * 
+ * Webfont: Radikal-UltraThin by Nootype
+ * URL: https://www.myfonts.com/fonts/nootype/radikal/ultra-thin/
+ * 
+ * 
+ * Webfonts copyright: Copyright &amp;#x00A9; 2013 by Nico Inosanto. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3ba67a");
+  
+@font-face {
+  font-family: 'Radikal-Medium';
+  src: url('webFonts/Radikal-Medium/font.woff2') format('woff2'), url('webFonts/Radikal-Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Radikal-UltraThin';
+  src: url('webFonts/Radikal-UltraThin/font.woff2') format('woff2'), url('webFonts/Radikal-UltraThin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Radikal-Bold';
+  src: url('webFonts/Radikal-Bold/font.woff2') format('woff2'), url('webFonts/Radikal-Bold/font.woff') format('woff');
+}
+
